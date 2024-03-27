@@ -46,9 +46,9 @@ const iife = (() => {
     }
   }
   
-  const music = new Reproductor('https://www.youtube.com/embed/5PSNL1qE6VY', 'musica');
-  const movie = new Reproductor('https://www.youtube.com/embed/5PSNL1qE6VY', 'peliculas');
-  const serie = new Reproductor('https://www.youtube.com/embed/5PSNL1qE6VY', 'series');
+  const music = new Reproductor('https://www.youtube.com/embed/9bZkp7q19f0?si=sVWdpO7H4iAsY_Hz', 'musica');
+  const movie = new Reproductor('https://www.youtube.com/embed/Y18rJtWXOdY?si=ZpN8_AhAduuwo74u', 'peliculas');
+  const serie = new Reproductor('https://www.youtube.com/embed/klSVH4dJrGU?si=E7oNDjn-3ewbPPc9', 'series');
   
   
   movie.setInicio(105);
